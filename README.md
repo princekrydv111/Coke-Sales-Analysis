@@ -41,10 +41,4 @@ This project analyzes sales data for Coca-Cola products, aiming to uncover key i
 - Integrate external factors (e.g., weather, events) for deeper analysis.
 - Develop dashboards for real-time sales monitoring.
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-Feel free to explore the repository and reach out if you have any questions or suggestions!
